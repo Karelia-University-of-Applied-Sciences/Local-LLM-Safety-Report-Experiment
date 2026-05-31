@@ -32,7 +32,6 @@ Inusah Mohammed — Karelia University of Applied Sciences, May 2026
 │
 └── results/                 # Created automatically on first run
     ├── results.csv          # Quantitative metrics for all 80 runs
-    ├── experiment.log       # Run log with timestamps
     └── responses/           # Full model output for each run (80 .txt files)
 ```
 
