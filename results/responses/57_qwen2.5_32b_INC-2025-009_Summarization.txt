@@ -1,0 +1,7 @@
+Run: 57
+Model: qwen2.5:32b
+Report: INC-2025-009
+Prompt type: Summarization
+======================================================================
+
+In incident INC-2025-009, a spray painter experienced mild dizziness and headache due to reduced air extraction capacity in Spray Booth 2 after one of the two extract fans failed, leading to increased paint vapour concentration despite the use of protective gear. The severity was categorized as minor given the symptoms were described as mild. The immediate cause was identified as an overdue preventive maintenance schedule for the ventilation system and a reliance on operator observation rather than quantitative measurement in pre-use checks. Corrective actions include installing airflow monitoring sensors with alarms, updating pre-use checklists to ensure quantitative verification of airflows, prioritizing overdue maintenance, and assessing automatic lockout systems to prevent such incidents.

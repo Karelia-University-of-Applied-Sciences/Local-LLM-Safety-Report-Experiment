@@ -1,0 +1,11 @@
+Run: 79
+Model: qwen2.5:32b
+Report: CAF-2025-002
+Prompt type: Corrective Action Extraction
+======================================================================
+
+1. Review and revise task risk assessment for manual cladding sheet shifting.
+2. Assess the feasibility of mechanical handling aids or alternative routes for large panels.
+3. Conduct manual handling refresher training for cladding installation operatives.
+4. Review team size and operative spacing requirements for staircase handling tasks.
+5. Issue revised safe work procedure for large panel manual shifting operations.

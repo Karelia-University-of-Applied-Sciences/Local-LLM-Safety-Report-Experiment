@@ -1,0 +1,9 @@
+Run: 33
+Model: llama3.1:latest
+Report: CAF-2024-001
+Prompt type: Summarization
+======================================================================
+
+Here is a 3-5 sentence summary of the incident report:
+
+The incident type was a near-miss (no damage or injuries reported), but a potential hazard occurred when two rubber packing components fell from an aluminium frame on a suspended cradle at level 22 to a public access area below. The immediate cause was that no mandatory pre-use inspection checklist existed for the cradle platform, leading to unsecured materials being left on the platform. Crew members also lacked awareness of hazards associated with unsecured materials at height above public access areas. As a result of the incident, several corrective actions were implemented to prevent similar incidents in the future.

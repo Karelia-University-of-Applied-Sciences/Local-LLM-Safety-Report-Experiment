@@ -1,0 +1,13 @@
+Run: 31
+Model: llama3.1:latest
+Report: INC-2025-035
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions listed as separate numbered items:
+
+1. Introduce grinding wheel installation log recording installation date and replacement interval.
+2. Update bench grinder pre-use checklist to include wheel surface visual inspection.
+3. Relocate full face shields to grinding workstation.
+4. Conduct grinding safety refresher for all maintenance staff.
+5. Inspect and replace all grinding wheels without documented installation dates.

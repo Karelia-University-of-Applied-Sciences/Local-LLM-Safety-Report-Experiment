@@ -1,0 +1,9 @@
+Run: 5
+Model: llama3.1:latest
+Report: INC-2024-051
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report in 3-5 sentences:
+
+The incident type was a minor skin irritation injury to a chemical handling technician's forearms, classified as a Severity Level of minor. The immediate cause of the incident was the failure to wear the required chemical-resistant extended-cuff gloves, which were not available at the workstation due to depleted stock. As a result of the incident, corrective actions were taken to restock the necessary PPE and implement a minimum stock level system for PPE in chemical handling areas.

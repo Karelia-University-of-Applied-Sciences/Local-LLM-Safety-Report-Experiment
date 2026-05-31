@@ -1,0 +1,12 @@
+Run: 25
+Model: llama3.1:latest
+Report: INC-2025-028
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report in 3-5 sentences:
+
+**Incident Type:** Laceration due to machinery contact
+**Severity Level:** Moderate (resulted in an injury that required medical attention, but was not severe enough to require time off work)
+**Immediate Cause:** Operative attempted to clear a product jam on a moving conveyor belt without first stopping the machine.
+**Outcome:** The operative sustained a laceration to their finger, which was treated with three adhesive strips and returned to modified duties the same day. Corrective actions were taken to prevent similar incidents in the future, including installing additional emergency stop buttons and updating safety procedures.

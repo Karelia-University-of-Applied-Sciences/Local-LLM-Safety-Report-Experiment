@@ -1,0 +1,9 @@
+Run: 13
+Model: llama3.1:latest
+Report: INC-2025-003
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report in 3-5 sentences:
+
+The incident type was a near-miss or close call due to potential severe crush or degloving injury. The immediate cause was that the CNC machinist opened the machine guard door without ensuring the spindle had fully stopped, believing it was stationary during a tool change cycle. The root causes were inadequate operator training and production time pressure from a backlog. Corrective actions have been implemented, including revising operator training, adding a spindle stop confirmation step to inspection procedures, and reviewing production scheduling to address time pressures.

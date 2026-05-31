@@ -1,0 +1,31 @@
+Run: 62
+Model: qwen2.5:32b
+Report: INC-2025-014
+Prompt type: Risk Classification
+======================================================================
+
+### Risk Level Classification: High
+
+#### Severity:
+- **High**: The incident resulted in a mild electric shock to the technician's right hand. While classified as "mild," electrical shocks can lead to serious injury such as burns, muscle spasms, or even cardiac arrest under different circumstances. Additionally, there is potential for long-term health effects from any kind of exposure to electrical currents.
+
+#### Likelihood:
+- **High**: The root causes indicate significant gaps in the safety procedures and documentation that are likely to recur unless comprehensive corrective actions are implemented rigorously. Specifically:
+  - An outdated panel wiring diagram failed to reflect recent modifications, leading to a hidden energized circuit.
+  - The lockout/tagout procedure did not include verification of live circuits after applying locks, which is a critical step in ensuring the safety of workers.
+  - Lack of proper labelling on the secondary power supply units contributed to this oversight.
+
+#### Justification:
+The severity and likelihood classification as "High" is based on the following standard risk assessment criteria:
+
+1. **Severity**: The potential for serious injury due to electrical shock, even if it was mild in this instance, poses a significant threat.
+2. **Likelihood**: Multiple systemic issues (outdated diagrams, inadequate procedures, and lack of labelling) increase the probability of recurrence until these are addressed thoroughly.
+
+### Corrective Actions:
+- Conduct an audit and update all control panel wiring diagrams to reflect current configurations accurately.
+- Revise lockout/tagout procedures to include mandatory live circuit verification tests post-lock application.
+- Ensure secondary power supply units on panels are properly labelled for easy identification by maintenance staff.
+- Implement a refresher training program focused on proper lockout/tagout practices for all electrical maintenance personnel.
+- Review recent panel modifications for any undocumented additions that may pose similar risks.
+
+These actions are critical to mitigate the risk of recurrence and ensure the safety of workers.

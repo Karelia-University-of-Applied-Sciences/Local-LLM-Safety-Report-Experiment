@@ -1,0 +1,13 @@
+Run: 39
+Model: llama3.1:latest
+Report: CAF-2025-002
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions listed as separate numbered items:
+
+1. Review and revise task risk assessment for manual cladding sheet shifting.
+2. Assess feasibility of mechanical handling aids or alternative routes for large panels.
+3. Conduct manual handling refresher training for cladding installation operatives.
+4. Review team size and operative spacing requirements for staircase handling tasks.
+5. Issue revised safe work procedure for large panel manual shifting operations.

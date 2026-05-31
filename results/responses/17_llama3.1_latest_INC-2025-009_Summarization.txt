@@ -1,0 +1,9 @@
+Run: 17
+Model: llama3.1:latest
+Report: INC-2025-009
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report:
+
+The incident type was an overexposure to organic vapors, resulting in mild symptoms of dizziness and headache in a spray painter. The severity level of this incident was likely categorized as minor to moderate. The immediate cause was the failure of one extract ventilation fan, which reduced airflow capacity by 50 percent, combined with physical exertion and increased vapor concentration. Outcome: Corrective actions were taken to prevent similar incidents, including installing airflow monitoring sensors and updating pre-use checklists.

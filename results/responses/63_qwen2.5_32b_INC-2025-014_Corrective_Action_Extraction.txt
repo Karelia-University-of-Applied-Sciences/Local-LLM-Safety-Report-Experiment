@@ -1,0 +1,11 @@
+Run: 63
+Model: qwen2.5:32b
+Report: INC-2025-014
+Prompt type: Corrective Action Extraction
+======================================================================
+
+1. Audit and update all control panel wiring diagrams.
+2. Revise the lockout/tagout procedure to require a live circuit verification test after lockout application.
+3. Label all secondary power supply units on the exterior of the panels.
+4. Conduct lockout/tagout refresher training for all electrical maintenance staff.
+5. Review recent modifications to panels for any undocumented circuit additions.

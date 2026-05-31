@@ -1,0 +1,11 @@
+Run: 75
+Model: qwen2.5:32b
+Report: CAF-2024-001
+Prompt type: Corrective Action Extraction
+======================================================================
+
+1. Implement a mandatory pre-use cradle inspection checklist requiring material security verification.
+2. Require all materials on cradle platforms to be stored in secured containers during operations.
+3. Conduct safety awareness briefings on dropped object hazards for all cradle crews.
+4. Establish a daily safety inspection schedule to assess compliance with cradle protocols.
+5. Review and revise the method statement and risk assessment for cradle operations.

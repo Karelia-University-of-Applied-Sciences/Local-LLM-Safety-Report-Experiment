@@ -1,0 +1,11 @@
+Run: 55
+Model: qwen2.5:32b
+Report: INC-2025-003
+Prompt type: Corrective Action Extraction
+======================================================================
+
+1. Revise CNC operator training to cover spindle deceleration hazards.
+2. Add spindle stop confirmation step to mid-cycle inspection procedure.
+3. Review production scheduling to address time pressure factors.
+4. Conduct machine-specific safety briefing for all CNC machinists.
+5. Assess feasibility of audible spindle stop confirmation signal.

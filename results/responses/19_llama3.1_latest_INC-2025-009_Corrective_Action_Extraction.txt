@@ -1,0 +1,12 @@
+Run: 19
+Model: llama3.1:latest
+Report: INC-2025-009
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions listed as separate numbered items:
+
+1. Install airflow monitoring sensors with alarm in all spray booths.
+2. Update pre-use spray booth checklist to include quantitative airflow verification.
+3. Review and prioritize overdue preventive maintenance for ventilation systems.
+4. Assess feasibility of automatic spray booth lockout on low airflow.

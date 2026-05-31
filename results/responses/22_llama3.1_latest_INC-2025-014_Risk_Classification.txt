@@ -1,0 +1,22 @@
+Run: 22
+Model: llama3.1:latest
+Report: INC-2025-014
+Prompt type: Risk Classification
+======================================================================
+
+**Risk Level:** High (Severity: 3/5, Likelihood: 4/5)
+
+**Justification:**
+
+*   **Severity:** The incident resulted in a mild electric shock to the technician's hand, which could have been more severe if not for the lockout/tagout procedure. The injury was likely caused by electrical current flowing through the body, which can lead to serious health consequences, including cardiac arrest.
+*   **Likelihood:** Given that the root causes included outdated wiring diagrams and a secondary power supply unit that was not labelled on the panel exterior, it is likely that similar incidents could occur in the future. The lockout/tagout procedure's failure to require live circuit verification tests after lockout application also increases the likelihood of recurrence.
+
+**Corrective actions taken:**
+
+*   Audit and update all control panel wiring diagrams
+*   Revise lockout/tagout procedure to require live circuit verification tests
+*   Label all secondary power supply units on panel exterior
+*   Conduct lockout/tagout refresher training for electrical maintenance staff
+*   Review recent panel modifications for undocumented circuit additions
+
+These corrective actions aim to address the root causes of the incident and reduce the likelihood of recurrence.

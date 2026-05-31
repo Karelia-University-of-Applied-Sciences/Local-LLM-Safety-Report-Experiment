@@ -1,0 +1,7 @@
+Run: 65
+Model: qwen2.5:32b
+Report: INC-2025-028
+Prompt type: Summarization
+======================================================================
+
+The incident report (INC-2025-028) details a manufacturing safety event where a production operative suffered a 4-centimeter laceration on their right index finger while trying to clear a product jam from a moving conveyor belt without stopping it, due to insufficient awareness of the need for a shutdown. The injury necessitated treatment with adhesive strips but did not prevent the worker from returning to modified duties that same day. Immediate causes included inadequate knowledge about safety protocols and the placement of emergency stop buttons too far from common jam locations. Corrective actions include installing additional emergency stop buttons, conducting mandatory retraining on conveyor safety procedures, updating clearance procedures, and placing instructional signs at all areas prone to jams.

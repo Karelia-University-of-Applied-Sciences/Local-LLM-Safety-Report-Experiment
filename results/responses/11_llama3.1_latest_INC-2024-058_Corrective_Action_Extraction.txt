@@ -1,0 +1,12 @@
+Run: 11
+Model: llama3.1:latest
+Report: INC-2024-058
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions listed as separate numbered items:
+
+1. Install permanent absorbent matting at all loading bay entrances.
+2. Revise forklift operator training to cover manual handling restrictions.
+3. Add weather-related slip hazard checks to pre-shift briefing checklist.
+4. Conduct toolbox talk on slip hazard awareness for all warehouse staff.

@@ -1,0 +1,7 @@
+Run: 45
+Model: qwen2.5:32b
+Report: INC-2024-051
+Prompt type: Summarization
+======================================================================
+
+The incident report (INC-2024-051) details a case of minor skin irritation suffered by a chemical handling technician who was transferring industrial solvent without the proper extended-cuff chemical-resistant gloves, which were unavailable due to depleted stock not being replenished. The severity level is categorized as minor since only first aid was required and no further medical treatment was necessary. The immediate cause was the absence of appropriate PPE, leading to solvent splashing onto the technician’s forearms above the glove line. Corrective actions include restocking chemical-resistant gloves, implementing a minimum stock alert system for PPE, conducting refresher training on stop-work authority, and updating PPE requirements signage at workstations.

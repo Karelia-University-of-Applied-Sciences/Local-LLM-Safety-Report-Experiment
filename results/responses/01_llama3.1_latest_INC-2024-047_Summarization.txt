@@ -1,0 +1,9 @@
+Run: 1
+Model: llama3.1:latest
+Report: INC-2024-047
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report in 3-5 sentences:
+
+The incident was an unexpected pressure spike caused by a partial blockage in the hydraulic return line, which reached approximately 340 bar, significantly above the standard operating threshold of 280 bar. The severity level of the incident was moderate, as it could have potentially led to component failure if not immediately stopped. The immediate cause of the incident was a combination of accumulated metal shavings and an expired inline filter that had exceeded its service interval by over 100 hours. No injuries were sustained, but production was halted for 47 minutes while corrective actions were taken, which included replacing filters, revising pre-shift checklists, and providing training on hydraulic system hazard awareness to operators.

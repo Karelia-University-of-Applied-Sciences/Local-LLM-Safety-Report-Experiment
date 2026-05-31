@@ -1,0 +1,9 @@
+Run: 29
+Model: llama3.1:latest
+Report: INC-2025-035
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report in 3-5 sentences:
+
+The incident type was a machinery-related accident involving a fractured grinding wheel, classified as a severity level of "no injury." The immediate cause was the grinding wheel's failure due to being used beyond its recommended replacement interval and showing visible surface cracks. A fragment struck the technician's safety glasses but did not penetrate, preventing a more serious outcome. Corrective actions were implemented to prevent similar incidents in the future, including updating pre-use checklists, relocating full face shields, and conducting a grinding safety refresher for maintenance staff.

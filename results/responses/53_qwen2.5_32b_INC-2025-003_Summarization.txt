@@ -1,0 +1,7 @@
+Run: 53
+Model: qwen2.5:32b
+Report: INC-2025-003
+Prompt type: Summarization
+======================================================================
+
+The incident report (INC-2025-003) details a critical near-miss event where a CNC machinist nearly suffered severe injury due to improper inspection of a milling machine mid-cycle without ensuring the spindle had fully stopped. The immediate cause was the operator's lack of understanding between tool change pause and full spindle stop, exacerbated by production time pressure. Although no contact occurred, the outcome highlights the potential for serious crush or degloving injuries. Corrective actions include revising training programs, updating inspection procedures to confirm spindle stoppage, reviewing production schedules, conducting safety briefings, and assessing audible confirmation signals for spindle stops.

@@ -1,0 +1,7 @@
+Run: 61
+Model: qwen2.5:32b
+Report: INC-2025-014
+Prompt type: Summarization
+======================================================================
+
+The incident report (INC-2025-014) details an event where an electrical maintenance technician received a mild electric shock while working on what was believed to be a de-energised control panel. The critical severity of the incident stemmed from the failure of the lockout/tagout procedure, as it did not account for all energy sources; specifically, a secondary 24V DC circuit remained energized due to an outdated wiring diagram and lack of live circuit verification post-lockout. As a result, corrective actions include updating diagrams, revising procedures to incorporate live circuit tests, labeling power supply units, conducting refresher training, and reviewing recent modifications for any undocumented circuits.

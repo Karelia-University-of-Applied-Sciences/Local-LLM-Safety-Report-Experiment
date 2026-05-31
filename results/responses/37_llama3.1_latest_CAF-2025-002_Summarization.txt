@@ -1,0 +1,9 @@
+Run: 37
+Model: llama3.1:latest
+Report: CAF-2025-002
+Prompt type: Summarization
+======================================================================
+
+Here is a 3-5 sentence summary of the manufacturing safety incident report:
+
+The incident was a struck-by accident involving two workers, resulting in a moderate-severity head laceration. The immediate cause was the loss of control of a cladding sheet by an operative during a manual material shifting operation. The root cause was identified as inadequate task risk assessment and lack of consideration for mechanical handling aids or alternative routes for transporting large panels. As a result of the incident, corrective actions were taken to review and revise the task risk assessment, conduct refresher training on manual handling, and issue revised safe work procedures.

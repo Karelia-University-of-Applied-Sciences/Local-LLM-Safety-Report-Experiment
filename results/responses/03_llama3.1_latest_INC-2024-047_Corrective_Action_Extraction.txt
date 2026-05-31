@@ -1,0 +1,14 @@
+Run: 3
+Model: llama3.1:latest
+Report: INC-2024-047
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions extracted from the report:
+
+1. Replace all hydraulic inline filters on Assembly Line B.
+2. Revise pre-shift equipment checklist to include hydraulic pressure baseline check.
+3. Review and update hydraulic filter replacement schedule across all production lines.
+4. Conduct toolbox talk on hydraulic system hazard awareness for all line operators.
+
+Note: The report does not mention replacing the existing inline filter that exceeded its service interval, it only mentions reviewing and updating the filter replacement schedule.

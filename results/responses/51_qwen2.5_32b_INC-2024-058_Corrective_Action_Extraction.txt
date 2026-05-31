@@ -1,0 +1,10 @@
+Run: 51
+Model: qwen2.5:32b
+Report: INC-2024-058
+Prompt type: Corrective Action Extraction
+======================================================================
+
+1. Install permanent absorbent matting at all loading bay entrances.
+2. Revise forklift operator training to cover manual handling restrictions.
+3. Add weather-related slip hazard checks to the pre-shift briefing checklist.
+4. Conduct a toolbox talk on slip hazard awareness for all warehouse staff.

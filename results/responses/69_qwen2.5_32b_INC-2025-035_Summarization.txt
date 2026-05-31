@@ -1,0 +1,7 @@
+Run: 69
+Model: qwen2.5:32b
+Report: INC-2025-035
+Prompt type: Summarization
+======================================================================
+
+In incident report INC-2025-035, a maintenance technician experienced a near-miss when the bench grinder's grinding wheel fractured due to being used beyond its recommended replacement interval, resulting in high-velocity fragment ejection. Although the technician was wearing safety glasses which were cracked by a fragment, no injury occurred as they did not use the required full face shield. The incident’s root causes included inadequate maintenance records and an insufficient pre-use inspection checklist. Corrective actions are being implemented to improve installation logging, update inspection checklists, enhance PPE accessibility, conduct safety training, and inspect all grinding wheels for proper documentation and condition.

@@ -1,0 +1,15 @@
+Run: 70
+Model: qwen2.5:32b
+Report: INC-2025-035
+Prompt type: Risk Classification
+======================================================================
+
+**Risk Level Classification**: Medium-High
+
+**Severity of Incident**: Medium-High
+- **Justification**: The incident had the potential to cause severe injury or fatality due to high-speed projectiles from a fractured wheel. Although no injuries occurred, there was a direct impact on safety glasses, indicating that under different circumstances (such as if the technician were not wearing eye protection), serious harm could have resulted.
+
+**Likelihood of Recurrence**: Medium
+- **Justification**: The likelihood is assessed as medium because multiple systemic issues led to this incident: improper maintenance practices (overuse of grinding wheels beyond recommended intervals), inadequate pre-use inspection procedures, and improper storage of protective equipment. These factors suggest that without corrective actions, there's a reasonable chance such an event could recur.
+
+**Risk Assessment Conclusion**: The combination of the significant potential for severe injury and medium likelihood of recurrence due to systemic issues places this incident at a Medium-High risk level. Implementation of the proposed corrective measures is critical to mitigate future risks effectively.

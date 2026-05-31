@@ -1,0 +1,9 @@
+Run: 9
+Model: llama3.1:latest
+Report: INC-2024-058
+Prompt type: Summarization
+======================================================================
+
+Here is a summary of the manufacturing safety incident report in 3-5 sentences:
+
+The incident type was a slipping and falling accident, with a severity level that resulted in a sprained left wrist and minor lacerations to the operator's hand. The immediate cause of the incident was the wet floor surface near the loading bay entrance, which was not properly addressed by warning signs or absorbent matting. The outcome was that the operator was unable to return to work for four days.

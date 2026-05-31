@@ -1,0 +1,12 @@
+Run: 7
+Model: llama3.1:latest
+Report: INC-2024-051
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions extracted from the incident report:
+
+1. Restock chemical-resistant extended-cuff gloves at all chemical handling workstations.
+2. Implement minimum stock level system for PPE at chemical handling areas.
+3. Conduct refresher training on stop-work authority and PPE selection for chemical handling staff.
+4. Review and update PPE requirements signage at chemical storage workstations.

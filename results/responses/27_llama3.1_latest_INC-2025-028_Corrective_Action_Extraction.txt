@@ -1,0 +1,12 @@
+Run: 27
+Model: llama3.1:latest
+Report: INC-2025-028
+Prompt type: Corrective Action Extraction
+======================================================================
+
+Here are the corrective actions extracted from the report:
+
+1. Install additional emergency stop buttons at 1.5 metre intervals along all conveyor sections.
+2. Conduct mandatory conveyor safety retraining for all production operatives.
+3. Update conveyor jam clearance procedure to include a mandatory stop verification step.
+4. Display conveyor stop-before-clearing instruction at all jam-prone sections.

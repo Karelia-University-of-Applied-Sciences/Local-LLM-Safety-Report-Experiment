@@ -1,0 +1,7 @@
+Run: 77
+Model: qwen2.5:32b
+Report: CAF-2025-002
+Prompt type: Summarization
+======================================================================
+
+The incident report CAF-2025-002 details a manufacturing safety event where a cladding sheet slipped from an operative's grip during transportation down the internal staircase, striking another worker on the head and causing a laceration despite the use of full PPE. The root cause was identified as an inadequate task risk assessment that failed to address the specific hazards associated with manually transporting large cladding sheets via staircases. Corrective actions include revising the risk assessment, evaluating mechanical handling aids or alternative routes, conducting refresher training on manual handling, and updating safe work procedures for such operations.
