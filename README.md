@@ -61,9 +61,15 @@ Eight reports (INC-*) are synthetic and were designed to reflect the
 structure and content of real manufacturing safety incident reports without
 containing any personal or operational data.
 
-Two reports (CAF-*) are based on real incidents at an aluminium fabrication
-company and have been fully anonymized. No personal data, company names,
-or location identifiers are present.
+**CAF-2024-001 and CAF-2025-002** are based on real incidents from an aluminium 
+fabrication company and have been fully anonymized. The original PDF documents 
+are not published to protect the source organization. 
+The extracted text files represent the complete content used in the experiment.
+
+The authenticity and representativeness of the synthetic reports were verified by 
+a qualified safety professional with experience in manufacturing safety management, 
+who confirmed that the reports reflect realistic incident types, language, and 
+documentation structure typical of the sector.
 
 ## Prompts
 
